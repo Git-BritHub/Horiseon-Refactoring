@@ -130,3 +130,8 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/*I replaced several divs with more descriptive elements such as header, nav, section, article, aside, and footer in the index.html. 
+I then corrected its corresponding CSS selectors and consolidated the children containing the same attributes into just few different classes under the name of ‘content-articles’. 
+Next, since the original code did not provide any accessibility/alts, I made sure to add them with a description for each image on the webpage. 
+Lastly, I added the missing code img src="./assets/images/lead-generation.png" for search-engine-optimization so that it would navigate to its section on the webpage when clicked on.*/
