@@ -1,4 +1,8 @@
-# <Horiseon Refactoring>
+# Horiseon Refactoring
+## Links
+[GitHub Repo](https://github.com/Git-BritHub/Horiseon-Refactoring)
+<br/>
+[Live URL](https://git-brithub.github.io/Horiseon-Refactoring/)
 ## Description
 For this project, I refactored the existing code for Horiseon’s website to improve its accessibility and functionality. While mostly functional, its code did not contain semantic html elements or alt attributes and contained repetitive CSS selectors. This website also did not have a functioning link for the Search Engine Optimization option.
 ## Installation
